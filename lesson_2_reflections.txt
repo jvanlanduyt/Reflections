@@ -5,7 +5,7 @@ It sets up the overhead to track any files you might want to track. It acknowleg
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-
+You work in the working directory and only submit the files to the staging area prior to commit. You know what files you have changed this way.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
