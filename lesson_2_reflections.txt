@@ -24,5 +24,7 @@ It shows how each path was constructed and its easier to see why some of the bra
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The merging is the coming together of two different lines into a new whole. It retains the combined history.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
